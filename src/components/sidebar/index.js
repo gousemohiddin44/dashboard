@@ -1,10 +1,10 @@
 import React from 'react';
 import './styles.scss';
 
-const New = () => {
+const Sidebar = () => {
   return (
-    <div>New</div>
+    <div>Sidebar</div>
   )
 }
 
-export default New;
+export default Sidebar;

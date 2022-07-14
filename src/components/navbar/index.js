@@ -1,10 +1,10 @@
 import React from 'react';
 import './styles.scss';
 
-const New = () => {
+const Navbar = () => {
   return (
-    <div>New</div>
+    <div>Navbar</div>
   )
 }
 
-export default New;
+export default Navbar;
